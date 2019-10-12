@@ -1,4 +1,5 @@
 # reduxwithreact
+
 React App with Redux:
 In a declarative UI like React, state is key and we should take good care of it. Redux is all about state. 
 The three principles
@@ -12,3 +13,7 @@ Key concepts
 3.	To change the state we dispatch actions and reducers process the changes.
 4.	All the reducers receive all the actions.
 
+Technologies Used:
+1. React
+2. React
+3. Fetch
